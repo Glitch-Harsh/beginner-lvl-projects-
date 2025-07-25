@@ -1,1 +1,16 @@
+In the past few days, I focused on Week 0 of the CS50P course.
+I first took time to understand key foundational concepts such as:
 
+Visual Studio Code for CS50
+Functions
+Variables
+Return Values
+Side Effects
+String Methods
+
+Once I felt confident with these topics, I went ahead and completed all the Week 0 projects, which include:
+1.Indoor Voice
+2.Playback Speed
+3.Making Faces
+4.Einstein
+5.Tip Calculator
