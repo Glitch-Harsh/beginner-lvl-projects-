@@ -1,1 +1,12 @@
+In Week 1 of the CS50P course, I focused on learning about conditionals and Boolean expressions.
+After understanding these concepts thoroughly, I completed the following five projects as part of the week’s assignment:
 
+1. Deep Thought
+
+2. Home Federal Savings Bank
+
+3. File Extensions
+
+4. Math Interpreter
+
+5. Meal Time
